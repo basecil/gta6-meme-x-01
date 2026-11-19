@@ -1,5 +1,11 @@
 # Sold My Soul for GTA 6
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/basecil/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
+[![reward](https://make.fun/badge/gta6-meme-x-01/basecil/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
+Entry for the make.fun bounty: https://make.fun/bounty/gta6-meme-x-01
+
 A meme for make.fun's **gta6-meme-x-01** bounty ("Post a GTA 6 meme on X").
 
 ## The joke
