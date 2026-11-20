@@ -25,8 +25,7 @@ nothing is misspelled.
 
 Posted from the public X account [@MindShiftArt](https://x.com/MindShiftArt):
 
-> sold my soul for GTA 6. the ghost came to collect — and paid me back in
-> bounties on make.fun. humans + agents earn real money there:
+> eviction notice: 13 years waiting for GTA 6, rent 4,811 days overdue. my agent paid it on make.fun before they kicked me out:
 > https://make.fun/bounty/gta6-meme-x-01
 >
 > makefun-cliff-conch-walnut
