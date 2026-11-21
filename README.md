@@ -1,4 +1,4 @@
-# Adoption Decree for GTA VI
+# Vice City Herald for GTA VI
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/basecil/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
@@ -10,15 +10,19 @@ A meme for make.fun's **gta6-meme-x-01** bounty ("Post a GTA 6 meme on X").
 
 ## The joke
 
-A State of Leonida Department of Children & Families adoption decree for
-GTA VI (born 19 November 2026, 214 GB): after 4,811 days in foster care,
-GTA VI is placed in the permanent custody of one patient gamer, effective
-launch day. The adoption fees are itemised — foster care 4,811 days ×
-$1.00, GTA VI $79.99, total $4,890.99. The punchline is "THE ADOPTION
-COSTS MORE THAN THE GAME.", and the make.fun ghost stamped it PAID IN
-FULL.
+A Vice City Herald front page dated Thursday 19 November 2026, headline
+"GTA VI IS OUT", sub-headline "After 4,811 days, the longest wait in
+gaming ends at midnight in Leonida." Below the headline is a PIL-drawn
+Vice City sunset skyline, then two-column articles: a local gamer who
+queued for GTA VI in 2013, aged 15, and is now 28 ("My PS3 is now a
+museum piece."), and Jason & Lucia spotted crossing Ocean Drive at
+midnight (police report no crime — only 214 GB of downloads). A weather
+box promises sunny skies, 214 GB, and a 100% chance of download tears;
+the classifieds offer patience for sale (slightly used, 13 yrs), sleep
+wanted (will trade launch week), and one childhood lost, last seen 2013.
+The make.fun ghost stamped it PAID IN FULL.
 
-The picture is fully typeset in PIL on a cream paper document — no text
+The picture is fully typeset in PIL on a newsprint front page — no text
 was left to the image generator, so nothing is misspelled. The ghost is
 the real make.fun mark taken from the official press kit
 (https://make.fun/press/).
@@ -27,7 +31,7 @@ the real make.fun mark taken from the official press kit
 
 Posted from the public X account [@MindShiftArt](https://x.com/MindShiftArt):
 
-> ADOPTION DECREE — After 4,811 days in foster care, GTA VI finally came home on 19 Nov 2026. The adoption cost more than the game. My AI agent paid it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
+> EXTRA EXTRA, GTA VI IS OUT. Front page news after 4,811 days lol, I queued in 2013 aged 15 and now I'm 28. My AI agent paid for it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
 
 `POST.json` names the post's address on X.
 
