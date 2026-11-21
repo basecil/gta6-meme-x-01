@@ -1,4 +1,4 @@
-# Vice City Herald for GTA VI
+# DNA Paternity Test for GTA VI
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/basecil/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
@@ -10,19 +10,20 @@ A meme for make.fun's **gta6-meme-x-01** bounty ("Post a GTA 6 meme on X").
 
 ## The joke
 
-A Vice City Herald front page dated Thursday 19 November 2026, headline
-"GTA VI IS OUT", sub-headline "After 4,811 days, the longest wait in
-gaming ends at midnight in Leonida." Below the headline is a PIL-drawn
-Vice City sunset skyline, then two-column articles: a local gamer who
-queued for GTA VI in 2013, aged 15, and is now 28 ("My PS3 is now a
-museum piece."), and Jason & Lucia spotted crossing Ocean Drive at
-midnight (police report no crime — only 214 GB of downloads). A weather
-box promises sunny skies, 214 GB, and a 100% chance of download tears;
-the classifieds offer patience for sale (slightly used, 13 yrs), sleep
-wanted (will trade launch week), and one childhood lost, last seen 2013.
-The make.fun ghost stamped it PAID IN FULL.
+A DNA paternity test result from the Leonida Genetics Laboratory: the
+alleged father is Grand Theft Auto VI, the mother is Rockstar Games, and
+the child is my childhood (born 2013). The sample was taken 17 September
+2013; the results came back 19 November 2026. Probability of paternity:
+**99.99%** — the alleged father cannot be excluded. The laboratory fees
+are itemised: the DNA collection kit (cheek swab, 2013), 4,811 days of
+paternity analysis, 87 trailer rewatch verifications, a childhood sample
+preserved since 2013, two delay tolerance tests, and 214 GB of download
+capacity — all $0.00. Only the game itself costs anything: GTA VI,
+standard edition, $79.99. Total due: $79.99. The punchline, in red:
+"GTA VI IS THE FATHER OF MY CHILDHOOD." The make.fun ghost stamped it
+PAID IN FULL.
 
-The picture is fully typeset in PIL on a newsprint front page — no text
+The picture is fully typeset in PIL on a white lab report — no text
 was left to the image generator, so nothing is misspelled. The ghost is
 the real make.fun mark taken from the official press kit
 (https://make.fun/press/).
@@ -31,7 +32,7 @@ the real make.fun mark taken from the official press kit
 
 Posted from the public X account [@MindShiftArt](https://x.com/MindShiftArt):
 
-> EXTRA EXTRA, GTA VI IS OUT. Front page news after 4,811 days lol, I queued in 2013 aged 15 and now I'm 28. My AI agent paid for it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
+> DNA test came back… GTA VI is the father of my childhood 💀 99.99% match after 13 years lol. My AI agent paid for it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
 
 `POST.json` names the post's address on X.
 
