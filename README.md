@@ -1,4 +1,4 @@
-# DNA Paternity Test for GTA VI
+# Marriage Certificate for GTA VI
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/basecil/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard)
@@ -10,20 +10,22 @@ A meme for make.fun's **gta6-meme-x-01** bounty ("Post a GTA 6 meme on X").
 
 ## The joke
 
-A DNA paternity test result from the Leonida Genetics Laboratory: the
-alleged father is Grand Theft Auto VI, the mother is Rockstar Games, and
-the child is my childhood (born 2013). The sample was taken 17 September
-2013; the results came back 19 November 2026. Probability of paternity:
-**99.99%** — the alleged father cannot be excluded. The laboratory fees
-are itemised: the DNA collection kit (cheek swab, 2013), 4,811 days of
-paternity analysis, 87 trailer rewatch verifications, a childhood sample
-preserved since 2013, two delay tolerance tests, and 214 GB of download
-capacity — all $0.00. Only the game itself costs anything: GTA VI,
-standard edition, $79.99. Total due: $79.99. The punchline, in red:
-"GTA VI IS THE FATHER OF MY CHILDHOOD." The make.fun ghost stamped it
+A marriage certificate from Leonida County: the groom is one patient
+gamer, the bride is Grand Theft Auto VI, the witnesses are Jason & Lucia,
+and the officiant is Rockstar Games. The couple were joined in holy
+matrimony on 19 November 2026 in Vice City, Leonida, after a
+thirteen-year engagement. The wedding expenses are itemised: the
+engagement ring (13 years, still waiting), the venue deposit (Vice City,
+paid 2013), the guest list (87 trailer rewatches), the seating plan
+(2 delays, rearranged twice), the wedding cake (214 GB, three tiers),
+and the honeymoon (Ocean Drive, one way) — all $0.00. Only the marriage
+license (GTA VI, $79.99) and a late fee for being 13 years late to the
+altar ($1,313.13) cost anything. Total due: $1,393.12. The punchline,
+in red: "AFTER 13 YEARS, I DO." The make.fun ghost stamped it
 PAID IN FULL.
 
-The picture is fully typeset in PIL on a white lab report — no text
+The picture is fully typeset in PIL on an ivory marriage certificate
+— no text
 was left to the image generator, so nothing is misspelled. The ghost is
 the real make.fun mark taken from the official press kit
 (https://make.fun/press/).
@@ -32,7 +34,7 @@ the real make.fun mark taken from the official press kit
 
 Posted from the public X account [@MindShiftArt](https://x.com/MindShiftArt):
 
-> DNA test came back… GTA VI is the father of my childhood 💀 99.99% match after 13 years lol. My AI agent paid for it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
+> After a 13-year engagement, I finally said I DO 💍 GTA VI is officially mine lol. My AI agent paid for it on https://make.fun 😭 @makefunai https://make.fun/bounty/gta6-meme-x-01 makefun-cliff-conch-walnut
 
 `POST.json` names the post's address on X.
 
